@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img height="180em" src = "https://readmestats.999857.xyz/api?username=FabioYoshi&show_icons=true&theme=radical"/>
-  <img height="180em" src = "https://readmestats.999857.xyz/api/top-langs/?username=FabioYoshi&layout=compact&theme=radical"/>
+  <img height="180em" src = "https://readmestats.999857.xyz/api?username=FabioYoshi&show_icons=true&theme=dracula"/>
+  <img height="180em" src = "https://readmestats.999857.xyz/api/top-langs/?username=FabioYoshi&layout=compact&theme=dracula"/>
 <div/>
 
 ##
