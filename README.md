@@ -10,7 +10,6 @@
 
 ##
 <div align ="center" style="display: inline_block"><br>
-  <img align="center" alt="Fa-Angular" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" >
   <img align="center" alt="Fa-VisualStudio" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" >
   <img align="center" alt="Fa-VisualCode" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" >
   <img align="center" alt="Fa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -19,6 +18,8 @@
   <img align="center" alt="Fa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Fa-Azure" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" >
   <img align="center" alt="Fa-C#" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" >
+    <img align="center" alt="Fa-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" >
+
 </div>
   
 ## 
