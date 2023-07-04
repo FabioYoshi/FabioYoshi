@@ -5,7 +5,6 @@
 <a href="https://github.com/FabioYoshi">
 <div align="center"> 
   <img height="180em" src="https://readmestats.999857.xyz/api?username=FabioYoshi&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://readmestats.999857.xyz/api/top-langs/?username=FabioYoshi&layout=compact&langs_count=7&theme=onedark"/>
 </div>
 
 ##
