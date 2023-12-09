@@ -5,13 +5,13 @@
 
 
 ##
-<div class="flex-container"> 
+<div align="center" class="flex-container"> 
   <img height="195px" src="https://readmestats.999857.xyz/api?username=FabioYoshi&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
   <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioYoshi&layout=compact" alt="Top Langs" />
 </div>
 
 ##
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Fa-VisualStudio" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" >
   <img align="center" alt="Fa-VisualCode" height="30" width="40" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" >
   <img align="center" alt="Fa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
