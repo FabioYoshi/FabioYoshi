@@ -7,7 +7,7 @@
 ##
 <div class="flex-container"> 
   <img height="195px" src="https://readmestats.999857.xyz/api?username=FabioYoshi&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioYoshi&layout=compact" alt="Top Langs" />
+  <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioYoshi&layout=compact" alt="Top Langs" />
 </div>
 
 ##
