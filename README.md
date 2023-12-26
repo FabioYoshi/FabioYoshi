@@ -6,8 +6,8 @@
 
 ##
 <div align="center"> 
-  <img height="150px" src="https://readmestats.999857.xyz/api?username=FabioYoshi&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioYoshi&layout=compact" alt="Top Langs" />
+  <img height="180px" src="https://readmestats.999857.xyz/api?username=FabioYoshi&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioYoshi&theme=onedark&layout=compact" alt="Top Langs" />
 </div>
 
 ##
